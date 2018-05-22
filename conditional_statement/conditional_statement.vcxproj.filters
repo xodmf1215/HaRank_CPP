@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="strings.cpp">
+    <ClCompile Include="..\ConsoleApplication1\conditional_statement.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
