@@ -22,4 +22,5 @@ int main() {
 		cout << arr[n-i-1] <<' ';
 	}
 	return 0;
+	;
 }
